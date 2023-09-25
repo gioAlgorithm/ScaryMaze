@@ -1,0 +1,10 @@
+.customCursor{
+    position: absolute;
+    width: 6px;
+    border: 1px solid black;
+    height: 6px;
+    background: red;
+    cursor: none;
+    z-index: 9999;
+    pointer-events: none;
+}
